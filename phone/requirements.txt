@@ -1,6 +1,0 @@
-streamlit
-numpy
-scikit-learn
-# local editable install removed because this project has no `src/` package directory
-# if you intend to install this project as a package, either create a proper package
-# directory (for example a folder with an __init__.py) or update setup.py accordingly.
